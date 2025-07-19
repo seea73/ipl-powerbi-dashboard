@@ -10,7 +10,7 @@ It was built as a learning and portfolio project by following tutorials on YouTu
 
 ![Dashboard Screenshot](dashboard.png)
 
-> *(Take a screenshot of your Power BI dashboard and save it as `dashboard.png` in this repo.)*
+
 
 ---
 
@@ -23,7 +23,7 @@ ipl-powerbi-dashboard/
 └── ipl_dashboard.pbix
 
 - `ipl_dashboard.pbix` — Power BI dashboard file
-- `screenshots/` — folder for dashboard screenshots
+- `dashboard.png` — dashboard screenshots
 - `README.md` — project documentation
 - `LICENSE` — GNU GPL v3.0 License
 
