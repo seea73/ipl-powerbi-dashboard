@@ -23,7 +23,7 @@ ipl-powerbi-dashboard/
 └── ipl_dashboard.pbix
 
 - `ipl_dashboard.pbix` — Power BI dashboard file
-- `dashboard.png` — dashboard screenshots
+- `dashboard.png` — dashboard screenshot
 - `README.md` — project documentation
 - `LICENSE` — GNU GPL v3.0 License
 
