@@ -20,7 +20,7 @@ ipl-powerbi-dashboard/
 ├── README.md
 ├── LICENSE
 ├── dashboard.png
-└── ipl_dashboard.pbix
+|── ipl_dashboard.pbix
 
 - `ipl_dashboard.pbix` — Power BI dashboard file
 - `dashboard.png` — dashboard screenshot
